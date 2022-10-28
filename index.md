@@ -5,7 +5,7 @@
 # {{ site.title }}
 
 <br id="idx01">
-This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
+This [GitHub Page](https://bayuanggorojati.github.io/os222/) is hosted at [GitHub.com]({{ site.urlgithub }}).
 You can download the source either as a
 [ZIP]({{ site.baseurl }}/template.zip) file or a
 [TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
@@ -23,7 +23,6 @@ I am {{ site.author }}, {{ site.address }}
 <br id="idx03">
 ### More Links
 
-* [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
-* [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
-* [This is how me do it records](https://doit.vlsm.org/)
+* TBA []: # "[GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)"
+* TBA []: # "[Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)"
 
