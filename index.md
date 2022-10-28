@@ -23,6 +23,6 @@ I am {{ site.author }}, {{ site.address }}
 <br id="idx03">
 ### More Links
 
-* TBA []: # "[GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)"
-* TBA []: # "[Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)"
+* [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
+* [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
 
