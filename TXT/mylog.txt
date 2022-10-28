@@ -1,0 +1,4 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 10 L00 Github related: copy public key, git config, setup new repo 
