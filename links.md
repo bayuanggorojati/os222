@@ -9,6 +9,9 @@ permalink: /links/
 1. [Virtual machine setup](https://osp4diss.vlsm.org/)\
 Great walk through to configure Debian virtual machine for our Operating System course, including the VirtualBox basic settings, Debian installation walk through, installing some Debian packages (probably those that are gonna be used in this course), and also setting up GitHub public key and some basic git commands (i.e. 4 GIT mantras).
 
+2. [Regex 101](https://regexlearn.com/learn/regex101)\
+One good website to learn regex for newbies. What I like from this website is that it provides tutorial along with interactive console so you can try it directly.
+
 ## Week 01
 1. [Learn linux command and basic shell scripting](https://www.linuxcommand.org/)\
 This is a great website to start learning about linux commands from the very basic. It also shows you how to write shell scripts along with some examples. Those are two things that I learnt during this week and I am gonna revisit those later on. Moreover, this site also provides you with a free e-book named *The Linux Command Line* that can be downloaded [here](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download) and some more advanced topics like dialog, AWK, etc.
